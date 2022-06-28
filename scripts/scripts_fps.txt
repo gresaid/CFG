@@ -1,0 +1,12 @@
+BrewmasterExtended.lua=300
+Counterpicker.lua=30
+FAIO.lua=300
+Krane-AIO.lua=87
+Overwolf.lua=30
+ShowMeMore.lua=89
+ShowSpellTime.lua=90
+WolfInfoReforged.lua=90
+auto_stacker.lua=86
+hake_alerts.lua=90
+hake_roshan_hp.lua=90
+show_me_more_v2.lua=300

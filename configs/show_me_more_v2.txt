@@ -1,0 +1,2 @@
+item_panel_x=263
+item_panel_y=847

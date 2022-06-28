@@ -1,0 +1,12 @@
+1=1 pos
+10=5 pos
+11=supp
+2=farm
+3=2 pos
+4=mid
+5=3 pos
+6=hard
+7=solo hard
+8=4 pos
+9=roam
+Messages count=11

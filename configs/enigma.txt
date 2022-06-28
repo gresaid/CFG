@@ -1,0 +1,9 @@
+circle_attack_active=0
+circle_attack_color=red
+circle_blink_dagger_active=1
+circle_blink_dagger_color=green
+circle_custom_active=0
+circle_custom_color=red
+circle_custom_range=0
+circle_enigma_black_hole_active=0
+circle_enigma_black_hole_color=red

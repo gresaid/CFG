@@ -1,0 +1,13 @@
+circle_attack_active=0
+circle_attack_color=red
+circle_blink_dagger_active=1
+circle_blink_dagger_color=green
+circle_custom_active=0
+circle_custom_color=red
+circle_custom_range=0
+circle_omniknight_guardian_angel_active=0
+circle_omniknight_guardian_angel_color=red
+circle_omniknight_purification_active=0
+circle_omniknight_purification_color=red
+circle_omniknight_repel_active=0
+circle_omniknight_repel_color=red

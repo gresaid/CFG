@@ -1,0 +1,11 @@
+Counteritem.lua=2
+FAIO.lua=1
+HiddenSpells.lua=9
+ShowSpellTime.lua=4
+WolfInfoReforged.lua=3
+auto_stacker.lua=6
+hake_alerts.lua=8
+hake_neutral_item_helpers.lua=5
+hake_roshan_hp.lua=7
+info_players_in_lobby_db.lua=10
+show_me_more_v2.lua=11

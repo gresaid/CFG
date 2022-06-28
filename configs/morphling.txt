@@ -1,0 +1,2 @@
+panelX=1445
+panelY=1049
